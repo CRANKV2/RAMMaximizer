@@ -2,8 +2,6 @@
 𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩
 
 STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! 
-
-
 Boost Manually- Termux >su -c RAMBOOST ! 
 
 UNIVERSAL
