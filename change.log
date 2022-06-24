@@ -1,0 +1,11 @@
+##v1.0
+▌Added GMS DOZE When phone boot up! (FIX DRAIN)
+▌Added Force Closing all in background when booting to have a nice boot after insert ur Pass Lock!
+▌Dropping all caches to get more space on ur Device!
+▌Whole Script generate .LOG file for Developer and u!
+Log File under sdcard/.STRP/ramboost.log
+▌Added FSTrim!
+FS Trim will discard all unused blocks in the Filesystem!
+▌Ability to Execute rambooster over Termux Manually if necessary!
+Command su -c RAMBOOST
+
