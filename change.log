@@ -1,12 +1,12 @@
 ## v1.0
-### [20002]
+### [20003]
 
 - ▌Removed Useless Two Dots in Script while Executing.
 - ▌Reworked Installer.
 - ▌Added some important stuff to whitelist.
 - ▌Changed small things in Script.
 
-### [20001]
+### [Initial Release]
 - ▌Added GMS DOZE When phone boot up! (FIX DRAIN)
 - ▌Added Force Closing all in background when booting to have a nice boot after insert ur Pass Lock!
 - ▌Dropping all caches to get more space on ur Device!
