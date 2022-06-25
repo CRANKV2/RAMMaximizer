@@ -1,6 +1,9 @@
 ##v1.0
 [20002]
-▌Removed Useless Two Dots in Script while executing.
+▌Removed Useless Two Dots in Script while Executing.
+▌Reworked Installer.
+▌Added some important stuff to whitelist.
+▌Changed small things in Script.
 
 [20001]
 ▌Added GMS DOZE When phone boot up! (FIX DRAIN)
