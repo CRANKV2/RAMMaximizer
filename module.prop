@@ -1,7 +1,7 @@
 id=STRP-RamBoost
 name=𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩
 version=1.0
-versionCode=20002
+versionCode=20003
 author=@CRANKV2
 description=STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! Boost Manually- Termux >su -c RAMBOOST ! 
 support=https://t.me/AndroidRootModulesCommunity
