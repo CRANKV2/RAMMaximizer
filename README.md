@@ -1,10 +1,12 @@
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/MLQV6Rw.png" width="500"></a></p>  
+ <h1 align="center"><b> 𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩 </b></h1>  
+ <h4 align="center">STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! 
+Boost Manually- Termux >su -c RAMBOOST !</h4>
 
-𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩
+ <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+ 
+ <h1 align="center"><b> UNIVERSAL </b></h1>
 
-STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! 
-Boost Manually- Termux >su -c RAMBOOST ! 
-
-UNIVERSAL
 
 ════════════════════
 REQUIREMENTS
@@ -16,7 +18,7 @@ Latest Busybox/Brutal
 Android 7.0+
 ════════════════════
 
- About RamBoost 
+ <h1 align="center"><b>About RamBoost </b></h1>
  
 ════════════════════
 ### Is it safe to use?
@@ -49,4 +51,5 @@ https://t.me/AndroidRootModulesCommunity
 
 ═══════════════════
 
- STAY FAST ⚡️
+ <h1 align="center"><b> STAY FAST ⚡️ </b></h1>
+
