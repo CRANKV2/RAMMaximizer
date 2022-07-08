@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/MLQV6Rw.png" width="500"></a></p>  
- <h1 align="center"><b> 𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 - 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩 </b></h1>  
+ <h1 align="center"><b> 𝙎𝙩𝙧𝙖𝙩𝙤𝙨𝙥𝙝𝙚𝙧𝙚 𝙭 𝙍𝙖𝙢𝘽𝙤𝙤𝙨𝙩𝙩 </b></h1>  
  <h4 align="center">STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! 
 Boost Manually- Termux >su -c RAMBOOST !</h4>
 
@@ -8,48 +8,54 @@ Boost Manually- Termux >su -c RAMBOOST !</h4>
  <h1 align="center"><b> UNIVERSAL </b></h1>
 
 
-════════════════════
-REQUIREMENTS
 
-Magisk 23.0+
+------
+### ▌STRPXRAMBOOST Will Boost Ur Device Space And Ram After Boot!
+------
+### ▌Boost Manually By Termux ▰ [su -c RAMBOOST] 
+------
+### ▌UNIVERSAL
+-----
+### ▌REQUIREMENTS ▰
+-----
+- ▌Magisk 23+
+-----
+- ▌Latest Busybox/Brutal
+-----
+- ▌Android 7+
+-----
+## ▌Some FAQ About Ram Boost 
+-----
+- ▌Q ▰ Is It Safe To Use?
+-----
+- ▌A ▰ Yes It's Safe, Ur Main Files Will Stay Untouched!
+-----
+- ▌Q ▰ How to Remove It ?
+------
+- ▌Simply Remove the Module Over Magisk!
+------
+- ▌Q ▰ I'm Facing Some Lags After Reboot?
+------
+- ▌Thats Typically Normal, Just Wait Till The Toast Pops Up After Boot
+[Ram Boost Initialize] ▰ [Ram Boost Sucessfully]
+----
+- ▌Q ▰ Im Facing Random Lag's ?
+------
+- ▌A ▰ This Problem Doesn't Came From Ram Boost. Maybe You Have Flashed Some Modules Which Are Conflicting With Ram Boost
+------
+- ▌Q ▰ How Do I Know If It Works Or Not?
+----
+- ▌A ▰ Open Ur File Manager Go Into 
+.STRP Folder > ramboost.log File Too See All What Happens In Background And If All Worked As It Should!
+------
+### ▌Note ▰
+------
+- ▌U Need To Enable [See Hidden Files] Into Ur File Manager To See .STRP [Logs] Folder
+------
+### ▌JOIN OUR CHANNEL'S & GROUP TO SUPPORT US
 
-Latest Busybox/Brutal
-
-Android 7.0+
-════════════════════
-
- <h1 align="center"><b>About RamBoost </b></h1>
- 
-════════════════════
-### Is it safe to use?
-
-Yes it's Safe, ur main files will stay Untouched!
-════════════════════
-### How to Remove it ?
-
-Simply Remove the Module Over Magisk!
-════════════════════
-### I'm Facing some Lags after Reboot?!
-
-Thats typically normal, Just wait till the Toast Pops up after boot
-[RamBoost Initialize] >> [RamBoost Sucessfully]
-════════════════════
-### Im Facing Random Lag's ?!
-
-This Problem doesn't Came from RamBoost. Maybe see if some Modules Ur Using are Conflicting Each Other.
-════════════════════
-### How do i know if it works or not?!
-
-Open ur File Manager go into 
-.STRP folder > ramboost.log file too see all what happens in Background and if all worked as it should!
-[U need to enable <see Hidden files into ur file manager to see .STRP folder]
-════════════════════
-
-JOIN
-
-https://t.me/AndroidRootModulesCommunity
-
-═══════════════════
-
- <h1 align="center"><b> STAY FAST ⚡️ </b></h1>
-
+- ▌https://t.me/StratospherePerformance [CHANNEL]
+- ▌https://t.me/StratosphereCloud [CHANNEL]
+- ▌https://t.me/AndroidRootModulesCommunity [GROUP]
+-----
+## 〄 STAY FAST 〄
