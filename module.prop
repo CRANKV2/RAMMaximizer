@@ -1,9 +1,9 @@
-id=STRP-RamBoost
-name=𝙎𝙏𝙍𝙋𝙭𝙍𝘼𝙈𝘽𝙊𝙊𝙎𝙏
+id=STRPxZRAM
+name=𝙎𝙏𝙍𝙋 𝙭 𝙕𝙍𝘼𝙈
 version=1.0
-versionCode=20004
+versionCode=20006
 author=@CRANKV2
-description=STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! Boost Manually- Termux >su -c RAMBOOST ! 
+description=STRP-ZRAM Will Gives You From 1 Up To 15 GB Extra Ram Partition On Your Device!
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
-updateJson=https://raw.githubusercontent.com/CRANKV2/RamBoost/main/module.json
+updateJson=https://raw.githubusercontent.com/CRANKV2/ZRAM/main/module.json
