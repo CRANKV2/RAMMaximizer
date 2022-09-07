@@ -14,6 +14,9 @@ rm "$test_file"
 }
 wait_until_login
 
-#Execute RamBoost .log under .STRP/ramboost.log
-sleep 25
-RAMBOOST
+# FIX DRAIN/gms
+su -c pm disable com.google.android.gms/.chimera.GmsIntentOperationService
+
+#Execute A.I
+sleep 20
+STRPAI

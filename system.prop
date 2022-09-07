@@ -3,6 +3,5 @@
 # Author: CRANKV2 🥀
 # ----------------------
 
-# ➜ MORE FREE RAM
 dalvik.vm.dexopt-flags=m=y
 persist.sys.purgeable_assets=1

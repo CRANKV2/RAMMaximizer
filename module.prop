@@ -1,9 +1,8 @@
 id=STRP-RamBoost
-name=𝙎𝙏𝙍𝙋 𝙭 𝙍𝘼𝙈𝘽𝙊𝙊𝙎𝙏
-version=1.0
-versionCode=20005
+name=STRP × RAMBOOST × A.I
+version=2.0
+versionCode=300
 author=@CRANKV2
-description=STRP-RamBoost Will Boost Ur Device Space And Ram After Boot! Boost Manually- Termux >su -c RAMBOOST ! 
+description=Full Autonome RAM Management A.I | Boost Ram & More Automatically After Every 10 Min. | A.I Will Handle All About RAM For You! | 
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
-updateJson=https://raw.githubusercontent.com/CRANKV2/RamBoost/main/module.json

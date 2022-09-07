@@ -1,26 +1,17 @@
-## v1.0
-### [20005]
-- ▌Changed Module Name
-- ▌Added Toast App For Toast After Boot
-- ▌Some Codes Adjusted To Be More Powerfull 
-- ▌New Redesigned Installer thx too @Legend_Gaming078🔥
-
-
-## v1.0
-### [20003]
-
-- ▌Removed Useless Two Dots in Script while Executing.
-- ▌Reworked Installer.
-- ▌Added some important stuff to whitelist.
-- ▌Changed small things in Script.
-
-### [Initial Release]
-- ▌Added GMS DOZE When phone boot up! (FIX DRAIN)
-- ▌Added Force Closing all in background when booting to have a nice boot after insert ur Pass Lock!
-- ▌Dropping all caches to get more space on ur Device!
-- ▌Whole Script generate .LOG file for Developer and u!
-- Log File under sdcard/.STRP/ramboost.log
-- ▌Added FSTrim!
-FS Trim will discard all unused blocks in the Filesystem!
-- ▌Ability to Execute rambooster over Termux Manually if necessary!
-- Command su -c RAMBOOST
+# v2.0 (300) UNIVERSAL 32/64BIT
+## About Ram Booster A.I ...
+▌▰ A.I Auto Load After Reboot And Work Itself In Background!
+▰ Check A.I .log under /sdcard/.STRP/A-I.log for more Infos and Live working of A.I
+▰ Clean All Caches of Background Processes!
+▰ Clean all Caches of Main Apps!
+▰ Clean RAM and RAM Cache
+▰ Boost UI/UX & Smoothness after ram Cleaning
+▰ Lowering STune on Background
+▰ Slighty Increase STune Foreground
+▰ Boosting Performance After Ram Cleaning
+▰ Locating & Disabling unnecessary stuff in Background
+▰ Clear Pagecache, Dentries and Inodes
+▰ Clean any .logs and caches into /data/data
+▰ At the end renice all processes and fstrim all partitions
+▌▰ A.I Recheck RAM Usage after every 10min. Full Automatic!
+-------
