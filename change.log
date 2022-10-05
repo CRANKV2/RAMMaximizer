@@ -1,3 +1,41 @@
+# 2.3 (430)
+- Reniced code
+- A.i will work much faster now in the background, each time she will check.
+- Log rework, log file now stored into /sdcard/Android/STRPxAI.log
+- Improved ram cleaner
+- A.I will now also clean ram when screen is turned off
+(NO this will not affect your Battery Consumption!)
+- Minor bugs fixed and Improvments made
+------
+# v2.2 (410)
+- reworked a.i script
+- adjusted scheduler
+- added 10 Minutes interval into A-I-Time.txt (standart)
+- change time manualy after flash and before reboot
+- improved & adjusted some props
+- fixed random reboots on some devices
+- minor bugs fixed
+------
+# v2.1 (400)
+- A.I now adjust diffrent Props depending on users Behavior > All RAM and Performance related!
+- A.I now Improves System depending also on User's Behavior
+- Improved A.I Recognition > always synced with users behavior
+- Improved A.I performance Boost after cleaning & adjusting all
+- Reworked .log creator code > Fixed bug .log are not created
+- disabling logd and traced
+- Improved cache Cleaner 
+- Improved A.I RAM cleaning Task
+- minor code bugs fixed & many improvments made
+- Logs are now under /sdcard/A.I/A.I.log
+- Set your own timer when A.I needs to recheck ur device
+- Go into /sdcard/Android/A-I-Time.txt and put the time (number) in seconds in it.
+- example..
+- 10 Minutes = 600
+- 15 Minutes = 900
+- 20 Minutes = 1200
+- And so on i guess u understand 
+- Enjoy!
+------
 # v2.0 (300) UNIVERSAL 32/64BIT
 ## About Ram Booster A.I ...
 ▌▰ A.I Auto Load After Reboot And Work Itself In Background!

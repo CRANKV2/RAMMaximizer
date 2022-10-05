@@ -1,8 +1,8 @@
 id=STRP-RamBoost
 name=STRP × RAMBOOST × A.I
-version=2.0
-versionCode=300
+version=2.3
+versionCode=430
 author=@CRANKV2
-description=Full Autonome RAM Management A.I | Boost Ram & More Automatically After Every 10 Min. | A.I Will Handle All About RAM For You! | 
+description=Full Autonome RAM Management A.I | Boost Ram & More Automatically After Time Period You Can Set Into /sdcard/Android/A-I-Time.txt | A.I Will Handle All About RAM For You! | 
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300

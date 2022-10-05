@@ -14,9 +14,10 @@ rm "$test_file"
 }
 wait_until_login
 
-# FIX DRAIN/gms
-su -c pm disable com.google.android.gms/.chimera.GmsIntentOperationService
 
 #Execute A.I
 sleep 20
 STRPAI
+
+sleep 3
+am start -a android.intent.action.MAIN -e toasttext "RamBoost A.I Running In Background..." -n bellavita.toast/.MainActivity
