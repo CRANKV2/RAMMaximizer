@@ -17,7 +17,7 @@
  <h1 align="center"><b>INFO'S</b></h1>
 
 - A.I Auto Load After Reboot And Work Itself In Background!
-- Check A.I .log under /sdcard/.STRP/A-I.log for more Infos and Live working of A.I
+- Check A.I .log under /sdcard/Androis/STRPxAI.log for more Infos and Live working of A.I
 - Clean All Caches of Background Processes!
 - Clean all Caches of Main Apps!
 - Clean RAM and RAM Cache
@@ -29,10 +29,19 @@
 - Clear Pagecache, Dentries and Inodes
 - Clean any .logs and caches into /data/data
 - At the end renice all processes and fstrim all partitions
-- A.I Recheck RAM Usage after every 10min. Full Automatic!
 -------
 
+- Timer is Auto Set to 15 Minutes after flashing!
 
+# HOW to Set your own Timer...
+
+### Go into /sdcard/Android/A-I-Time.txt and put the time (Number) in seconds in it.
+- example..
+- 10 Minutes = 600
+- 15 Minutes = 900
+- 20 Minutes = 1200
+- And so on i guess u understand 
+- Enjoy!
 
  <h1 align="center"><b>FAQ</b></h1>
 
@@ -50,13 +59,7 @@
 
 - ▌Q ▰ How Do I Know If It Works Or Not?
 - ▌A ▰ Open Ur File Manager Go Into 
-.STRP Folder > A.I.log File Too See All What Happens In Background And If All Worked As It Should!
-------
-
- <h1 align="center"><b>NOTE</b></h1>
-
-
-- ▌U Need To Enable [See Hidden Files] Into Ur File Manager To See .STRP [Logs] Folder
+Android Folder > STRPxAI.log File Too See All What Happens In Background And If All Worked As It Should!
 ------
 
 ### ▌JOIN OUR CHANNEL'S & GROUP TO SUPPORT US
