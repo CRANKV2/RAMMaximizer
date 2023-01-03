@@ -1,7 +1,7 @@
 # ----------------------
-# RAMBOOST PROPS
-# Author: CRANKV2 🥀
+# RAMBOOST ADDITIONAL PROPS
+# most of them inflated inside main daemon
+# Author: CRANKV2
 # ----------------------
 
 dalvik.vm.dexopt-flags=m=y
-persist.sys.purgeable_assets=1

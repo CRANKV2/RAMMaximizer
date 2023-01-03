@@ -1,8 +1,8 @@
-id=STRP-RamBoost
-name=STRP × RAMBOOST × A.I
-version=2.3
-versionCode=430
+id=STRP-RAMMaximizer
+name=STRP × RAM Maximizer
+version=v3.0
+versionCode=7188
 author=@CRANKV2
-description=Full Autonome RAM Management A.I | Boost Ram & More Automatically After Time Period You Can Set Into /sdcard/Android/A-I-Time.txt | A.I Will Handle All About RAM For You! | 
+description=Say goodbye to lag and hello to a faster device with our RAM management module | Boost Automatically after time period you can set Manually over Termux 'su -c CT <time>' | ex. 'su -c CT 300' | RAMM Will Handle All About RAM!
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300

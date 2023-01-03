@@ -1,4 +1,4 @@
-#Wait till Boot bevore Execution
+#Wait till Boot before Execution
 wait_until_login() {
 while [[ `getprop sys.boot_completed` -ne 1 && -d "/sdcard" ]]
 do
@@ -14,10 +14,10 @@ rm "$test_file"
 }
 wait_until_login
 
+sleep 2
+#Start Daemon
+RAMM_DAEMON
 
-#Execute A.I
-sleep 20
-STRPAI
 
-sleep 3
-am start -a android.intent.action.MAIN -e toasttext "RamBoost A.I Running In Background..." -n bellavita.toast/.MainActivity
+sleep 2
+am start -a android.intent.action.MAIN -e toasttext "RAM Maximizer Initialized, check the Logs !" -n bellavita.toast/.MainActivity

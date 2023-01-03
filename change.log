@@ -1,3 +1,35 @@
+# v3.0 [7188]
+- version bumped to v3.0 because too many changes made
+- {RamBoost A.I} is now {RAM Maximizer}
+- Daemon does nothing IF 
+-> battery is lower then 15%
+-> Ram capacity is over 75% Avaiable
+- Added support for devices with low memory killer feature
+- Improved props checker and adjuster functionality
+- Added ability to disable tracing and log daemons for improved system performance
+- Added service killer to identify and terminate unnecessary services running in the background (Not Apps)
+- Enhanced support for adjusting swappiness, dirty ratio, and dirty background ratio values
+- Improved minfree support for enhanced memory management
+- Added support for ZRAM and ZSWAP to improve system performance on low RAM devices
+- Adjusted kernel parameters to optimize RAM usage (if supported on the device)
+- Improved support for memory compaction to reduce memory fragmentation and improve system performance
+- Added support for kernel compression to improve system performance on low RAM devices
+------
+
+
+# v2.5 [450]
+- Changed Cleaner script command to 'su -c SCL'
+- due to conflict with Latest STRP x DOZE Script !
+- Thanks to @X_WizardX008 to let me know that !
+----
+# v2.4 [440]
+- Removed cache cleaner from auto mode
+- Clean all cache manually trough Termux by running 'su -c STRPC'
+- Reworked A.I script to run smoothly
+- Android 13 supported
+- A.I Checking now for BAD props vhanged by other shit Modules flashed before and Adjusting them
+- Serveral bugs fixed and improvments made in code
+-----
 # 2.3 (430)
 - Reniced code
 - A.i will work much faster now in the background, each time she will check.

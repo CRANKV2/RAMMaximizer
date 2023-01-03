@@ -1,5 +1,149 @@
-# Made By CRANKV2
-# Kanging is BAD :-)
-z="
-";LDz='tpro';nGz='tall';cEz='!"';MHz='@CRA';RFz='▰ $(';Pz='VICE';GFz='ch A';REz='Root';pFz='r -x';tDz='rele';Dz='lse';pGz='Dont';CDz='(get';Gz='=tru';YGz='Inst';qFz='f "$';Iz='POST';qCz=' "▌D';oGz='ed, ';jCz='ON ▰';ZHz='ATH ';PHz='am]"';jEz='dcar';MDz='p ro';jBz='║██║';Yz='/mod';kz='priv';wEz='roid';ZDz='rer)';Sz='DEBU';xCz='p 2';QBz='╚══█';Ez='PROP';eBz='═██╗';BDz=' ▰ $';FGz=' "╚═';kFz='" ==';IBz=' "';RCz='TRAT';kEz='d/An';BFz='t';HCz='█╗';IGz='.. A';mGz=' Ins';GBz='slee';YBz='░░░█';kCz=' 2.3';wFz=' -C ';ZGz='alli';gDz=' $(g';Fz='FILE';cz='EXAM';rCz='EVIC';rGz='get ';vDz=' "▌K';bDz='ROCE';ez='"';IFz='r de';RBz='█╔══';BEz='-r)"';WFz='ct.c';jGz='Succ';Tz='G=fa';rEz=' "90';UHz='ons(';hDz='etpr';NDz='.pro';pHz='ommo';GGz='═⇒ D';WCz='ll A';nFz=']] &';QHz='}';GDz='d.pr';kGz='essf';HDz='oduc';qEz='echo';mCz='ODEN';sFz='ATH/';HFz='RM u';nDz='NDRO';DFz='Chec';FHz='r Mo';nCz='AME ';ZBz='█║░░';QEz='oid ';MCz=' ""';OBz='██╔═';VGz='Plea';JHz='f!"';dBz='░╚══';dCz=' "▌U';oEz='me.t';Kz='TA=f';pDz='o.bu';cCz='nt ▌';TBz='══██';OFz='Your';WHz='_rec';Hz='e';xHz='&2';PCz='RED ';Mz='LATE';iCz='ERSI';OHz=' [Te';kHz='unzi';yBz='██║';KEz='k '\''{';gBz='██╔╝';lDz='re)"';EDz=' ro.';oCz='▰ A.';pBz='░╚═╝';YDz='actu';wz='prin';yDz='$(un';sHz='ons.';tBz=' " "';iz='Yout';PEz='Andr';iFz='$IS6';hCz=' "▌V';RDz=' "▌B';ACz='███║';JDz='E ▰ ';aDz=' "▌P';XHz='ursi';HGz='ONE ';DHz='unit';XEz='n Te';az='REPL';gEz='."';xEz='/A-I';vGz=' Dev';sBz='░"';sCz='E IN';Bz='MOUN';MBz='╗███';bGz='pm i';pz='/Set';mFz='ue" ';OCz='POWE';bCz='geme';SGz='tant';nEz='I-Ti';tCz='FORM';mHz='jo "';OEz='oin ';uz='k';pEz='xt';mEz='d/A-';Oz='TSER';JEz='  aw';cDz='SSOR';fz='/sys';hGz='Toas';EEz=' $(f';jDz='o.ha';DBz='rint';vBz='5';JCz='██╗█';wDz='ERNE';LHz=' By ';THz='issi';VCz='▰ Fu';xz='t_mo';eEz='ing ';kBz='░░░░';gFz='for ';qz='ting';RHz='set_';iEz='h /s';CGz='rb32';EHz='y Fo';LBz='████';vEz='/And';bFz='ng a';VDz='syst';SFz='getp';rDz='vers';VFz='rodu';IDz='t)"';VBz='╗';nz='temU';vz='ACE=';jHz='P=0';sEz='0" >';cGz='nsta';fGz='tosp';YEz='legr';QFz=' Is ';uDz='ase)';KGz='lace';aHz='0 0 ';lCz=' "▌C';dFz='ovin';uGz='t Ur';FFz=' whi';cFz='nd M';vFz='.xz"';mBz='══╝░';lz='-app';YCz='ome ';uHz='-d $';aBz='███╔';CEz=' "▌R';lFz=' "tr';aFz='acti';rBz='╝╚═╝';dGz='ll $';FDz='buil';wGz='ice!';BIz='R/fu';cHz=' 064';ADz='ODEL';yHz='. $T';uFz='.tar';VEz='ty"';Zz='ules';RGz='mpor';SCz='OSPH';Uz='MODD';wCz=':"';NGz='sful';KFz=' has';WDz='em.m';dz='PLE=';XGz='ait.';oz='I';BGz='| ta';yCz=' "▌M';hEz='touc';DDz='prop';XCz='uton';gGz='here';Vz='IR=/';CBz='ui_p';QDz='el)"';oDz='ID V';AFz='e.tx';fEz='A.I.';SEz=' Mod';bz='ACE_';HHz='ool ';Az='SKIP';iDz='op r';lHz='p -q';uEz='card';ECz='██║░';bHz='0755';rz='s';dDz='boar';sDz='ion.';TGz=' Thi';NHz='NKV2';GCz='╚═╝"';KDz='$(ge';qGz=' For';oHz='" '\''c';VHz=') {';CHz='Comm';FCz='╚═╝░';Rz='NSER';eFz='g fi';WEz=' "▌O';tEz=' /sd';vHz='TMPD';hFz='[[ "';UFz='ro.p';KCz='╚═╝╚';TDz='prod';dEz='Plac';mDz=' "▌A';iBz='░░██';FBz='━━━━';HEz='ep M';qDz='ild.';eHz='em/b';gz='tem/';nBz='░░░╚';aEz='or M';oFz='& ta';NFz=' "╠▌';AHz='dRoo';uCz='ATIO';LFz='..."';lBz='╚═══';ZEz='am F';eCz='NIVE';hBz='░██║';qHz='n/fu';gHz=' 0 0';kDz='rdwa';vCz='NS..';PGz='Set ';Wz='data';DCz='██║╚';MGz='cces';EGz='p 2.';BBz='{';hHz='755 ';SDz='RAND';OGz='ly!"';qBz='░░╚═';iHz='UNZI';JGz='.I P';ICz='█║';fCz='RSAL';QGz='Up I';XDz='anuf';WBz='╚███';TFz='rop ';tGz='eboo';PDz='.mod';aGz='ng..';SBz='╝██╔';NEz=' "▌J';PFz=' ARM';EFz='king';FEz='ree ';cBz='╝';KHz='Made';YHz='ve $';XFz='pu.a';AEz='ame ';UDz='uct.';LCz='═╝"';oBz='═╝░░';LEz='t $2';Nz='STAR';rHz='ncti';AIz='MPDI';sz='fram';fDz='PU ▰';ABz='e() ';GEz='| gr';JBz='░███';tFz='rb64';Jz='FSDA';UCz='A.I ';EBz=' "━━';hz='app/';QCz='BY S';KBz='███╗';wHz='IR >';WGz='se W';DGz='H"';BHz='tMod';CIz='sh';GHz='re C';bBz='╝███';TEz=' Com';ZFz='Extr';fHz='in 0';NBz='░';tz='ewor';jz='ube';yFz='DPAT';XBz='██╗░';jFz='4BIT';LGz='d Su';ODz='duct';DEz='AM ▰';SHz='perm';uBz='p 1.';MEz='}'\'')"';BCz='██╔█';xDz='L ▰ ';sGz='To R';aCz='Mana';gCz=' ▌"';NCz=' " ▌';Xz='/adb';ZCz='RAM ';eGz='Stra';Lz='alse';lEz='droi';HBz='p 1';TCz='ERE ';UEz='muni';bEz='ore!';dHz='4';iGz='t.ap';UGz='ngs ';CCz='═██║';mz='/Sys';nHz='$ZIP';fFz='les ';CFz=' "╔▌';lGz='ully';yEz='-Tim';tHz='sh'\'' ';YFz='bi)"';eDz='d)"';xFz='"$MO';MFz=' "║"';AGz='H" |';UBz='╗██╔';IEz='em |';Qz='CLEA';Cz='T=fa';xGz='Join';fBz='░██╔';yGz=' @An';IHz='Stuf';wBz='██╗';xBz='╗░██';yz='dnam';rFz='MODP';JFz='vice';pCz='I"';PBz='═══╝';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$Gz$Hz$z$Qz$Rz$Pz$Gz$Hz$z$Sz$Tz$Dz$z$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez$z$fz$gz$hz$iz$jz$z$fz$gz$kz$lz$mz$nz$oz$z$fz$gz$kz$lz$pz$qz$rz$z$fz$gz$sz$tz$uz$z$ez$z$az$vz$ez$z$ez$z$wz$xz$yz$ABz$BBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$GBz$HBz$z$CBz$DBz$IBz$z$JBz$KBz$LBz$LBz$MBz$KBz$JBz$KBz$NBz$z$OBz$PBz$QBz$RBz$SBz$TBz$UBz$TBz$VBz$z$WBz$XBz$YBz$ZBz$JBz$aBz$bBz$aBz$cBz$z$dBz$eBz$YBz$ZBz$fBz$TBz$UBz$PBz$NBz$z$LBz$gBz$YBz$ZBz$hBz$iBz$jBz$kBz$NBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$kBz$sBz$z$CBz$DBz$tBz$z$GBz$uBz$vBz$z$CBz$DBz$IBz$z$LBz$XBz$JBz$XBz$KBz$YBz$wBz$z$OBz$eBz$OBz$eBz$LBz$xBz$yBz$z$LBz$gBz$LBz$ACz$BCz$aBz$yBz$z$OBz$eBz$OBz$CCz$DCz$gBz$yBz$z$ECz$hBz$ECz$hBz$ECz$FCz$yBz$z$FCz$pBz$FCz$pBz$FCz$kBz$GCz$z$CBz$DBz$tBz$z$GBz$uBz$vBz$z$CBz$DBz$IBz$z$JBz$XBz$YBz$HCz$z$OBz$eBz$YBz$ICz$z$LBz$ACz$YBz$ICz$z$OBz$CCz$YBz$ICz$z$ECz$hBz$JCz$ICz$z$FCz$pBz$KCz$LCz$z$CBz$DBz$MCz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$GBz$uBz$vBz$z$CBz$DBz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$ez$z$CBz$DBz$NCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$ez$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$GBz$uBz$vBz$z$CBz$DBz$MCz$z$CBz$DBz$dCz$eCz$fCz$gCz$z$CBz$DBz$tBz$z$GBz$HBz$z$CBz$DBz$hCz$iCz$jCz$kCz$ez$z$CBz$DBz$lCz$mCz$nCz$oCz$pCz$z$CBz$DBz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$z$GBz$xCz$z$CBz$DBz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$z$CBz$DBz$qCz$rCz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$CBz$DBz$RDz$SDz$BDz$CDz$DDz$EDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$ez$z$CBz$DBz$aDz$bDz$cDz$BDz$CDz$DDz$EDz$TDz$UDz$dDz$eDz$z$CBz$DBz$lCz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$z$CBz$DBz$mDz$nDz$oDz$iCz$jCz$gDz$hDz$iDz$pDz$qDz$rDz$sDz$tDz$uDz$ez$z$CBz$DBz$vDz$wDz$xDz$yDz$AEz$BEz$z$CBz$DBz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$wz$LEz$MEz$z$GBz$xCz$z$CBz$DBz$tBz$z$CBz$DBz$NEz$OEz$PEz$QEz$REz$SEz$Zz$TEz$UEz$VEz$z$CBz$DBz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$z$CBz$DBz$MCz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$GBz$xCz$z$CBz$DBz$MCz$z$CBz$DBz$NCz$dEz$eEz$fEz$gEz$z$GBz$uBz$vBz$z$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$z$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$z$CBz$DBz$tBz$z$CBz$DBz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$z$GBz$xCz$z$CBz$DBz$MFz$z$CBz$DBz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$z$GBz$HBz$z$CBz$DBz$MFz$z$CBz$DBz$NFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$z$hFz$iFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$pFz$qFz$rFz$sFz$CGz$uFz$vFz$wFz$xFz$yFz$DGz$z$GBz$EGz$vBz$z$CBz$DBz$MFz$z$CBz$DBz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$z$CBz$DBz$MCz$z$CBz$DBz$NCz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$gEz$z$GBz$EGz$vBz$z$CBz$DBz$NCz$YGz$ZGz$aGz$gEz$z$bGz$cGz$dGz$rFz$sFz$eGz$fGz$gGz$hGz$iGz$uz$z$CBz$DBz$MCz$z$GBz$xCz$z$CBz$DBz$NCz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$ez$z$CBz$DBz$MCz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$GBz$uBz$vBz$z$CBz$DBz$MCz$z$CBz$DBz$NCz$xGz$yGz$lEz$AHz$BHz$Zz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$z$CBz$DBz$MCz$z$GBz$uBz$vBz$z$CBz$DBz$NCz$UCz$KHz$LHz$MHz$NHz$OHz$YEz$PHz$z$CBz$DBz$MCz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$ez$z$CBz$DBz$MCz$z$CBz$DBz$MCz$z$CBz$DBz$MCz$z$CBz$DBz$MCz$z$QHz$z$RHz$SHz$THz$UHz$VHz$z$RHz$SHz$WHz$XHz$YHz$rFz$ZHz$aHz$bHz$cHz$dHz$z$RHz$SHz$WHz$XHz$YHz$rFz$sFz$VDz$eHz$fHz$gHz$hHz$bHz$z$QHz$z$Az$iHz$jHz$z$kHz$lHz$mHz$nHz$Fz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$z$yHz$AIz$BIz$rHz$sHz$CIz"
+#!/system/bin/sh
+SKIPMOUNT=false
+PROPFILE=true
+POSTFSDATA=false
+LATESTARTSERVICE=true
+CLEANSERVICE=true
+DEBUG=false
+MODDIR=/data/adb/modules
+
+# Construct your list in the following format
+# This is an example
+REPLACE_EXAMPLE="
+/system/app/Youtube
+/system/priv-app/SystemUI
+/system/priv-app/Settings
+/system/framework
+"
+
+# Construct your own list here
+REPLACE="
+"
+
+
+# Set what you want to display when installing your module
+print_modname() {
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+ui_print ""
+ui_print "~ Checking if OLD Ramboost A.I Module is installed"
+ui_print "~> Removing it Automatically if that is the case !"
+sleep 1.5
+if [ -d /data/adb/modules/STRP-RamBoost ]; then
+  rm -rf /data/adb/modules/STRP-RamBoost
+  ui_print ""
+    ui_print "▰ Old Ramboost A.I Module found. Removing it and continuing installation..."
+    ui_print ""
+    sleep 2
+else
+ui_print ""
+  ui_print "▰ Old Ramboost A.I Module not found. Continuing installation..."
+  ui_print ""
+  sleep 2
+fi
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1
+ui_print "
+░██████╗████████╗██████╗░██████╗░
+██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
+╚█████╗░░░░██║░░░██████╔╝██████╔╝
+░╚═══██╗░░░██║░░░██╔══██╗██╔═══╝░
+██████╔╝░░░██║░░░██║░░██║██║░░░░░
+╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░"
+ui_print " "
+sleep 1.5
+ui_print "
+██████╗░░█████╗░███╗░░░███╗███╗░░░███╗
+██╔══██╗██╔══██╗████╗░████║████╗░████║
+██████╔╝███████║██╔████╔██║██╔████╔██║
+██╔══██╗██╔══██║██║╚██╔╝██║██║╚██╔╝██║
+██║░░██║██║░░██║██║░╚═╝░██║██║░╚═╝░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝"
+ui_print " "
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+ui_print " ▌POWERED BY STRAT✪SPHERE "
+ui_print " ▌RAMM ▰ Full Autonome RAM Management ▌"
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1.5
+ui_print ""
+  ui_print " ▌UNIVERSAL ▌"
+  ui_print " "
+  sleep 1
+  modpath="/data/adb/modules_update/STRP-RAMMaximizer/"
+  ui_print " ▌VERSION ▰ $(grep_prop version "${modpath}module.prop")"
+  ui_print " ▌Build Number ▰ $(grep_prop versionCode "${modpath}module.prop")"
+  ui_print " ▌CODENAME ▰ RAMM"
+  ui_print " ▌DEVICE INFORMATIONS..:"
+  sleep 2
+  ui_print " ▌MODEL ▰ $(getprop ro.build.product)"
+  ui_print " ▌DEVICE ▰ $(getprop ro.product.model)"
+  ui_print " ▌BRAND ▰ $(getprop ro.product.system.manufacturer)"
+  ui_print " ▌PROCESSOR ▰ $(getprop ro.product.board)"
+  ui_print " ▌CPU ▰ $(getprop ro.hardware)"
+  ui_print " ▌ANDROID VERSION ▰ $(getprop ro.build.version.release)"
+  ui_print " ▌KERNEL ▰ $(uname -r)"
+  ui_print " ▌RAM ▰ $(free | grep Mem |  awk '{print $2}')"
+  sleep 2
+  ui_print " "
+  ui_print " ▌Join Android Root Modules Community"
+  ui_print " ▌On Telegram For More !!"
+ui_print ""
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+ui_print ""
+ui_print " ▌Create and Placing Time File..."
+sleep 1.5
+touch /sdcard/#STRP/RAMMaximizer/RAMM-Time.txt
+echo "1800" > /sdcard/#STRP/RAMMaximizer/RAMM-Time.txt
+ui_print ""
+ui_print " ▌Stock Time is set to 30 Minutes (1800)"
+sleep 2
+ui_print ""
+ui_print "╔▌Checking which ARM ur device has..."
+sleep 2
+ui_print "║"
+ui_print "╠▌Your ARM Is ▰ $(getprop ro.product.cpu.abi)"
+sleep 1
+ui_print "║"
+ui_print "╠▌Extracting and Moving files for ▰ $(getprop ro.product.cpu.abi)"
+[[ "$IS64BIT" == "true" ]] && tar -xf "$MODPATH/ramm64.tar.xz" -C "$MODPATH" || tar -xf "$MODPATH/ramm32.tar.xz" -C "$MODPATH"
+sleep 2.5
+ui_print "║"
+ui_print "╚══⇒ DONE .. RAMM Daemon Placed Successfully!"
+ui_print ""
+ui_print " ▌Set Up Important Things Please Wait.."
+sleep 2.5
+ui_print " ▌Installing..."
+pm install $MODPATH/StratosphereToast.apk
+ui_print ""
+sleep 2
+ui_print " ▌Successfully Installed, Dont Forget To Reboot Ur Device!"
+ui_print ""
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1.5
+ui_print ""
+ui_print " ▌Join @AndroidRootModulesCommunity For More Cool Stuff!"
+ui_print ""
+sleep 2
+ui_print " ▌Run 'su -c CT <TIME>' Replace <TIME> with any second amount you like"
+sleep 1.5
+ui_print " ▌Example, 'su -c CT 300' This will set time to 300 Seconds aka 5 Minutes."
+sleep 3
+ui_print " ▌RAMM Daemon Made By @CRANKV2 [Telegram]"
+ui_print ""
+ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+ui_print ""
+ui_print ""
+ui_print ""
+ui_print ""
+}
+
+
+set_permissions() {
+  set_perm_recursive $MODPATH 0 0 0755 0644
+  set_perm_recursive $MODPATH/system/bin 0 0 0755 0755
+}
+
+SKIPUNZIP=0
+unzip -qjo "$ZIPFILE" 'common/functions.sh' -d $TMPDIR >&2
+. $TMPDIR/functions.sh
