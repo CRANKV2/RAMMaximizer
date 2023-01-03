@@ -1,7 +1,7 @@
 <p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/gNrVMgb.jpg" width="500"></a></p>  
 <h1 align="center"><b>STRP x RAM</b></h1>
 <h1 align="center"><b>MAXIMIZER</b></h1>  
- <h4 align="center">Say goodbye to lag and hello to a faster device with our RAM management module | Boost Automatically after time period you can set Manually over Termux 'su -c CT < time >' | ex. 'su -c CT 300' | RAMM Will Handle All About RAM!</h4>
+ <h4 align="center">Say goodbye to lag and hello to a faster device with our `RAM management Module` | Boost Automatically after time period you can set Manually over Termux `'su -c CT < time >'` | ex. `'su -c CT 300'` | RAMM Will Handle All About RAM!</h4>
 
  <a href="https://t.me/AndroidRootModulesCommunity"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
  
@@ -15,7 +15,7 @@
 
  <h1 align="center"><b>INFO'S</b></h1>
 
-- Daemon auto run after reboot every 30 Minutea !
+- `Daemon auto run after reboot every 30 Minutes` !
 - 
 - 
 - 
@@ -24,17 +24,17 @@
 
 -------
 
-- Timer is Auto Set to 30 Minutes after flashing!
+- `Timer` is Auto Set to `30 Minutes` after flashing!
 
 # HOW to Set your own Time Period...
 
 ### Simply use Termux.
-- su -c CT < TIME >
+- `su -c CT < TIME >`
 
-- replace < TIME > with any amount, in seconds.
+- replace `< TIME >` with any amount, in `seconds`.
 
-- example "su -c CT 1800" 
-- simply hit enter and the rest works all automatically.
+- example `"su -c CT 1800"`
+- simply `hit enter` and the rest works all automatically.
 - Enjoy!
 
  <h1 align="center"><b>FAQ</b></h1>
@@ -53,8 +53,8 @@
 
 - ▌Q ▰ How Do I Know If It Works Or Not?
 - ▌A ▰ Open Ur File Manager Go Into 
-- #STRP/RAMMaximizer/ -> Folder 
-- RAMM-Daemon.log -> File 
+- `#STRP/RAMMaximizer/` -> Folder 
+- `RAMM-Daemon.log` -> File 
 - Too See All What Happens In Background And If All Worked As It Should!
 ------
 
