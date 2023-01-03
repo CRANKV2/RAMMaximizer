@@ -60,9 +60,9 @@
 
 ### ▌JOIN OUR CHANNEL'S & GROUP TO SUPPORT US
 
-- ▌https://t.me/StratospherePerformance [CHANNEL]
-- ▌https://t.me/StratosphereCloud [CHANNEL]
-- ▌https://t.me/AndroidRootModulesCommunity [GROUP]
+- ▌`https://t.me/StratospherePerformance` [CHANNEL]
+- ▌`https://t.me/StratosphereCloud` [CHANNEL]
+- ▌`https://t.me/AndroidRootModulesCommunity` [GROUP]
 -----
 
 ## 〄 STAY FAST 〄
